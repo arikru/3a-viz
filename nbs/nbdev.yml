@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "3a-viz"
+  site-url: "https://arikru.github.io/3a-viz"
+  description: "A visualization of AAanalysis made with FastHTML and nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/arikru/3a-viz"
